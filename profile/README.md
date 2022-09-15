@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, we are arkona technologies</h1>
 <h3 align="center">We create cutting edge technology for video and audio broadcast applications.</h3>
 
-- 💬 Visi our website [https://arkonatech.com/](https://arkonatech.com/)
+- 💬 Visit our website [https://arkonatech.com/](https://arkonatech.com/)
 
 - 💬 Ask us about **our open API-first approach**
 
