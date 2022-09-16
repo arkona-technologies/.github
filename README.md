@@ -1,2 +1,2 @@
 # .github
-Information about arkona technologies
+GitHub Profile
